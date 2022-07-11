@@ -5,11 +5,11 @@ class WeatherNowSettings{
         return $YandexAPIKey;
     }
     public static function GetAPIKeyGismeteo(){
-        $GismeteoAPIKey = 'GismeteoAPIK';
+        $GismeteoAPIKey = '<GismeteoAPI>';
         return $GismeteoAPIKey;
     }
     public static function GetAPIKeyOpenWeatherMap(){
-        $GismeteoAPIKey = 'GismeteoAPI';
+        $GismeteoAPIKey = '<GismeteoAPI>';
         return $GismeteoAPIKey;
     }
 }
